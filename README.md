@@ -1,4 +1,4 @@
-# e-shop-vue-2
+# e-shop-vue
 
 ## Project setup
 ```
